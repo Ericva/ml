@@ -1,2 +1,2 @@
 # ml
-machine learing 
+整体机器学习相关的入口页面，其他内容会使用submodule的方式加入到当前的代码库中
