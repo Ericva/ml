@@ -1,0 +1,3 @@
+[submodule "ml_softmax"]
+	path = ml_softmax
+	url = https://github.com/Ericva/ml_softmax.git
